@@ -7,7 +7,7 @@
     properties:
       - build-discarder:
           days-to-keep: 7
-          num-to-keep: 20
+          num-to-keep: 25
       - rebuild
     wrappers:
       - timestamps
