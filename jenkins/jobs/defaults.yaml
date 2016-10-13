@@ -6,7 +6,7 @@
     retry-count: 5
     properties:
       - build-discarder:
-          days-to-keep: 3
+          days-to-keep: 7
           num-to-keep: 20
       - rebuild
     wrappers:
